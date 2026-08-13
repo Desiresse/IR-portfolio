@@ -70,5 +70,6 @@ mes rapports d'incidents et mes labs de cybersécurité défensive.
 ## 📬 Contact
 
 - 📧 karenjessley1@gmail.com
-- 💼 [linkedin.com/in/votre-profil]
+- 💼 LinkedIn : [Karen Jessley](https://www.linkedin.com/in/karen-jessley-0879252b7)
+
 - 📍 tamines
